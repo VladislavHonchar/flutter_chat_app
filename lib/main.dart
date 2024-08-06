@@ -2,7 +2,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:mini_mes/services/auth/auth_gate.dart';
 import 'package:mini_mes/firebase_options.dart';
-import 'package:mini_mes/theme/light_mode.dart';
 import 'package:mini_mes/theme/theme_provider.dart';
 import 'package:provider/provider.dart';
 
